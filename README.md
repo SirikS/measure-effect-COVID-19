@@ -1,1 +1,1 @@
-# measure-effect-COVID-19
+# measure effect COVID-19
